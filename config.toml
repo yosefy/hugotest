@@ -1,4 +1,4 @@
-baseurl = "http://your.base.url/"
+baseurl = "https://yosefy.github.io/hugotest/"
 languageCode = "en-us"
 title = "My HugoMDL Site"
 theme = "HugoMDL"

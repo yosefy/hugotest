@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>My HugoMDL Site</title>
-    <link>http://your.base.url/</link>
+    <link>https://yosefy.github.io/hugotest/</link>
     <description>Recent content on My HugoMDL Site</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://your.base.url/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://yosefy.github.io/hugotest/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

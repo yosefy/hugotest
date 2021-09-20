@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on My HugoMDL Site</title>
-    <link>http://your.base.url/categories/</link>
+    <link>https://yosefy.github.io/hugotest/categories/</link>
     <description>Recent content in Categories on My HugoMDL Site</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://your.base.url/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://yosefy.github.io/hugotest/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
